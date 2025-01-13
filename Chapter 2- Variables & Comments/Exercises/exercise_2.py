@@ -1,0 +1,1 @@
+print('Forrest Gump once said, "Mama always said life was like a box of chocolates. You never know what you are gonna get".')

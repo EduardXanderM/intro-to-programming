@@ -1,0 +1,2 @@
+while True:
+    print("REVERSED CURSED TECHNIQUE: HOLLOW PURPLE")
